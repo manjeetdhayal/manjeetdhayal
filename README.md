@@ -1,4 +1,4 @@
-### Heyaa!! 👋
+<h1 align="center" > Heyaa!! 👋 </h1>
 
 
 
@@ -8,4 +8,4 @@
 - 🤔 I’m looking for help with OS development 
 - 📫 How to reach me: https://www.linkedin.com/in/manjeet-dhayal-194953209/
 
-[![Manjeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=manjeetdhayal&show_icons=true&theme=radical)](https://github.com/manjeetdhayal/github-readme-stats)
+[![Manjeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=manjeetdhayal&show_icons=true&theme=radical)](https://github.com/manjeetdhayal/github-readme-stats) 
