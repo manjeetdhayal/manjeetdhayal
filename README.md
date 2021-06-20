@@ -16,20 +16,25 @@ console.log(About_me);
 
 ```
 
-> ### 🔭 I’m working on Tinder Clone. 
-> ### 🌱 I’m currently learning MERN stack 
-> ### 👯 I’m eager to collaborate on opensourse. 
-> ### 🤔 I’m looking for help with React.js and CP. 
+ ### 🔭 I’m working on Tinder Clone. 
+ ### 🌱 I’m currently learning MERN stack 
+ ### 👯 I’m eager to collaborate on opensourse. 
+ ### 🤔 I’m looking for help with React.js and CP. 
 
-<img  src="./cool.png">
-<p align="center">
- <a align="center" href="https://github.com/manjeetdhayal/github-readme-stats">
+
+<br>
+
+
+        
+
+<p > <a align="center" href="https://github.com/manjeetdhayal/github-readme-stats">
   <img align="center" margin-bottom="10px" src="https://github-readme-stats.vercel.app/api?username=manjeetdhayal&show_icons=true&theme=great-gatsby&count_private=true" />
-  </a>
-  
+        </a>
+        
+   </p>      
 
-</p>
 
+   
 <!--
  <a href="https://github.com/manjeetdhayal/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manjeetdhayal&theme=great-gatsby" />
