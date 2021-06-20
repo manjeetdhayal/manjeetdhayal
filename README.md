@@ -1,12 +1,26 @@
 <h1 align="center" > Heyaa!! 👋 </h1>
 
+``` Javascript
+
+var About_Me = {
+
+        Name: "Manjeet Dhayal",
+        
+        College: "NIT Rourkela",
+                
+   }
+
+console.log(About_me); 
+
+// To know more see 👇
+```
 
 
-- 🔭 I’m currently working on clone of tinder. 
-- 🌱 I’m currently learning MERN stack 
-- 👯 I’m looking to collaborate on opensourse. 
-- 🤔 I’m looking for help with React.js and CP. 
-- 📫 How to reach me: https://www.linkedin.com/in/manjeet-dhayal-194953209/
+> ### 🔭 I’m working on Tinder Clone. 
+> ### 🌱 I’m currently learning MERN stack 
+> ### 👯 I’m eager to collaborate on opensourse. 
+> ### 🤔 I’m looking for help with React.js and CP. 
+
 
 
 
