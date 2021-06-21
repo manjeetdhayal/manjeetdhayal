@@ -23,7 +23,7 @@ console.log(About_me);
 // To know more see 👇
 
 ```
-
+<img hight="400" width="500" alt="GIF" align="right" src="Image.png">
 
 ### - Learning :
 - ✨ Data Structures & Algorithms
