@@ -9,18 +9,31 @@
 
 
 ``` Javascript
+console.log(About_me); 
 
 var About_Me = {
 
         Name: "Manjeet Dhayal",
         
+        Hometown: "Narhar, Pilani",
+        
+        Age: "18",
+        
         College: "NIT Rourkela",
                 
    }
+   
+  let Present_State = () => { 
+  
+              console.log("Working on clones of Tinder, Whatsapp, and others");
+              console.log("Looking for collabration on OpenSourse");
+              console.log("Need help with CP and MERN stack");
+               
+              }
 
-console.log(About_me); 
 
-// To know more see 👇
+
+// Stalk me on 😁 => 👇
 
 ```
 ##
@@ -46,22 +59,17 @@ console.log(About_me);
  ### 🤔 I’m looking for help with React.js and CP. 
  -->
 
-<br>
+##
 
 
-        
+<p align="center">        
 
-<p align="center"> <a align="center" href="https://github.com/manjeetdhayal/github-readme-stats">
-  <img align="center" margin-bottom="10px" src="https://github-readme-stats.vercel.app/api?username=manjeetdhayal&show_icons=true&theme=great-gatsby&count_private=true" />
+<a align="center" href="https://github.com/manjeetdhayal/github-readme-stats">
+  <img height="205px" align="center" margin-bottom="10px" src="https://github-readme-stats.vercel.app/api?username=manjeetdhayal&show_icons=true&theme=great-gatsby&count_private=true" />
         </a>
         
-   </p>      
-
-
-   
-<!--
  <a href="https://github.com/manjeetdhayal/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manjeetdhayal&theme=great-gatsby" />
+  <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manjeetdhayal&theme=great-gatsby" />
   </a> 
--->
 
+</p>
