@@ -1,10 +1,6 @@
-<h1 align="center" > Konichiwa 👋 </h1>
+<h1 align="center" > Konichiwa 👋! Welcome to Manjeet's Github Profile </h1>
 
-<div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="Greeting_img.gif">
-</div>
-<br>
-<br>
+##
 
 
 
