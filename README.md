@@ -1,4 +1,12 @@
-<h1 align="center" > Heyaa!! 👋 </h1>
+<h1 align="center" > Konichiwa 👋 </h1>
+
+<div align="center">
+<img hight="300" width="700" alt="GIF" align="center" src="Greetings2.gif">
+</div>
+<br>
+<br>
+
+
 
 ``` Javascript
 
@@ -16,11 +24,23 @@ console.log(About_me);
 
 ```
 
- ### 🔭 I’m working on Tinder Clone. 
+
+### - Learning :
+- ✨ Data Structures & Algorithms
+- ✨ Web Development
+
+### - Hobbies : 
+- ✨ Coding
+- ✨ Watching Anime
+- ✨ Exploring Stuffs
+- ✨ Football (Neighbourhood Professional XD)
+
+<!--
+ ### 🔭 I’m working on Tinder Clone.  
  ### 🌱 I’m currently learning MERN stack 
  ### 👯 I’m eager to collaborate on opensourse. 
  ### 🤔 I’m looking for help with React.js and CP. 
-
+ -->
 
 <br>
 
