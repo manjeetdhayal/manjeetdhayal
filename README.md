@@ -33,6 +33,11 @@ var About_Me = {
 
 ```
 ##
+https://twitter.com/coder_manjeet
+https://www.linkedin.com/in/manjeet-dhayal-194953209/
+
+
+##
 <br>
 <br>
 <br>
