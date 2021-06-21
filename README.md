@@ -35,11 +35,11 @@ var About_Me = {
 ##
 <div align="center">
 
-<a href="https://twitter.com/coder_manjeet"> <img src="./assets/twitter.png></a>
+<a href="https://twitter.com/coder_manjeet"> <img src="./assets" /></a>
 
-<a href="https://www.linkedin.com/in/manjeet-dhayal-194953209/"> <img src="./assets/linkedin.png></a>
+<a href="https://www.linkedin.com/in/manjeet-dhayal-194953209/"> <img src="./assets/linkedin.png" /></a>
 
-<a href="https://www.instagram.com/___manjeet_?r=nametag"> <img src="./assets/instagram.png></a>
+<a href="https://www.instagram.com/___manjeet_?r=nametag"> <img src="./assets/instagram.png " /></a>
 
 </div>
 
