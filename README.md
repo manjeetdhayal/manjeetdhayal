@@ -1,7 +1,7 @@
 <h1 align="center" > Konichiwa 👋 </h1>
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="Greetings2.gif">
+<img hight="300" width="700" alt="GIF" align="center" src="Greeting_img.gif">
 </div>
 <br>
 <br>
@@ -23,7 +23,11 @@ console.log(About_me);
 // To know more see 👇
 
 ```
-<img hight="400" width="500" alt="GIF" align="right" src="Image.png">
+##
+<br>
+<br>
+<br>
+<img hight="200px" width="200px" align="right" src="Image.png">
 
 ### - Learning :
 - ✨ Data Structures & Algorithms
@@ -47,7 +51,7 @@ console.log(About_me);
 
         
 
-<p > <a align="center" href="https://github.com/manjeetdhayal/github-readme-stats">
+<p align="center"> <a align="center" href="https://github.com/manjeetdhayal/github-readme-stats">
   <img align="center" margin-bottom="10px" src="https://github-readme-stats.vercel.app/api?username=manjeetdhayal&show_icons=true&theme=great-gatsby&count_private=true" />
         </a>
         
