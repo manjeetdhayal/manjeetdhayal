@@ -34,7 +34,7 @@ var About_Me = {
 ```
 ##
 
-<p align="center"><a href="https://twitter.com/coder_manjeet"> <img src="./assets/twitter.png" /></a>  <a href="https://www.linkedin.com/in/manjeet-dhayal-194953209/"> <img src="./assets/linkedin.png" /></a><a href="https://www.instagram.com/___manjeet_?r=nametag"> <img src="./assets/instagram.png " /></a><a href="mailto:manjeetdhayal786@gmail.com"> <img src="./assets/mail.png " /></a></p>
+<p align="center" font-size="32px" > <a href="https://twitter.com/coder_manjeet"> <img src="./assets/twitter.png" /></a> &nbsp &nbsp &nbsp &nbsp &nbsp <a href="https://www.linkedin.com/in/manjeet-dhayal-194953209/"> <img src="./assets/linkedin.png" /></a> &nbsp &nbsp &nbsp &nbsp &nbsp <a href="https://www.instagram.com/___manjeet_?r=nametag"> <img src="./assets/instagram.png " /></a> &nbsp &nbsp &nbsp &nbsp &nbsp <a href="mailto:manjeetdhayal786@gmail.com"> <img src="./assets/mail.png " /></a></p>
 
 ##
 <br>
@@ -73,3 +73,5 @@ var About_Me = {
   </a> 
 
 </p>
+
+## <h1 align="center"> If you ❤️ it, show some ❤️ by 🌟 repositeries! 🙈 
