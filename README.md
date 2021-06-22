@@ -65,7 +65,7 @@ var About_Me = {
 <p align="center">        
 
 <a align="center" href="https://github.com/manjeetdhayal/github-readme-stats">
-  <img height="205px" align="center" margin-bottom="10px" src="https://github-readme-stats.vercel.app/api?username=manjeetdhayal&show_icons=true&theme=great-gatsby&count_private=true" />
+  <img height="245px" align="center" margin-bottom="10px" src="https://github-readme-stats.vercel.app/api?username=manjeetdhayal&show_icons=true&theme=great-gatsby&count_private=true" />
         </a>
         
  <a href="https://github.com/manjeetdhayal/github-readme-stats">
