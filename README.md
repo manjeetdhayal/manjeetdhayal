@@ -65,11 +65,11 @@ var About_Me = {
 <p align="center">        
 
 <a align="center" href="https://github.com/manjeetdhayal/github-readme-stats">
-  <img height="245px" align="center" margin-bottom="10px" src="https://github-readme-stats.vercel.app/api?username=manjeetdhayal&show_icons=true&theme=great-gatsby&count_private=true" />
+  <img height="200px" align="center" margin-bottom="10px" src="https://github-readme-stats.vercel.app/api?username=manjeetdhayal&show_icons=true&theme=great-gatsby&count_private=true" />
         </a>
         
  <a href="https://github.com/manjeetdhayal/github-readme-stats">
-  <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manjeetdhayal&theme=great-gatsby" />
+  <img  align="center" height="200px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=manjeetdhayal&theme=great-gatsby" />
   </a> 
 
 </p>
