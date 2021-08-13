@@ -20,11 +20,10 @@ var About_Me = {
    }
    
   let Present_State = () => { 
-  
-              console.log("Working on clones of Tinder, Whatsapp, and others");
-              console.log("Looking for collabration on OpenSourse");
-              console.log("Need help with CP and MERN stack");
-               
+                      console.log("Organising Hackodisha")
+                      console.log("Working on clones of Tinder, Whatsapp, and Authorisation using Backend");
+                      console.log("Looking for collabration on OpenSourse");
+                      console.log("Need help with CP and MERN stack");               
               }
 
 
@@ -44,7 +43,7 @@ var About_Me = {
 
 ### - Learning :
 - ✨ Data Structures & Algorithms
-- ✨ Web Development
+- ✨ MERN
 
 ### - Hobbies : 
 - ✨ Coding
