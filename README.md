@@ -13,7 +13,7 @@ var About_Me = {
         
         Hometown: "Narhar, Pilani",
         
-        Age: "18",
+        Age: "19",
         
         College: "NIT Rourkela",
                 
