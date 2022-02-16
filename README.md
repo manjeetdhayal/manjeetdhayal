@@ -5,7 +5,6 @@
 
 
 ``` Javascript
-console.log(About_me); 
 
 var About_Me = {
 
@@ -18,6 +17,8 @@ var About_Me = {
         College: "NIT Rourkela",
                 
    }
+   
+   console.log(About_me); 
    
   let Present_State = () => { 
                       console.log("Organising Hackodisha")
