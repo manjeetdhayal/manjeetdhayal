@@ -35,6 +35,7 @@ const Present_State = () => {
 };
 
 Present_State();
+```
 
 <h1 align="center">Konnichiwa 👋, I'm Manjeet Dhayal</h1>
 <h3 align="center">Member of Technical Staff at Oracle | Full-Stack Engineer | Java & Spring Boot | React & TypeScript | OCI</h3>
@@ -82,6 +83,7 @@ const currentFocus = () => {
 };
 
 currentFocus();
+```
 
 ## 🌱 Learning & Interests
 - ✨ **Distributed Systems & System Design**
