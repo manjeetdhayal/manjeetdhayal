@@ -1,140 +1,48 @@
-<h1 align="center">Konnichiwa 👋, I'm Manjeet Dhayal</h1>
-<h3 align="center">Member of Technical Staff at Oracle | Full-Stack Engineer | Java & Spring Boot | React & TypeScript | OCI</h3>
+# Manjeet Dhayal
 
-<p align="center">
-  <a href="https://linkedin.com/in/manjeet-dhayal">
-    <img src="https://img.shields.io/badge/LinkedIn-Manjeet%20Dhayal-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://github.com/manjeetdhayal">
-    <img src="https://img.shields.io/badge/GitHub-@manjeetdhayal-black?style=for-the-badge&logo=github" />
-  </a>
-  <a href="mailto:manjeetdhayal786@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="https://leetcode.com/dholiyoo">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" />
-  </a>
-</p>
+**Core Infrastructure Engineer @ Oracle** · Bengaluru, India
+
+Backend, infrastructure and AI/RAG engineer at Oracle Cloud Infrastructure. I build Java and Dropwizard services and distributed systems at enterprise scale, ship LLM/RAG systems that hold up in production, and founded [GetQi](#projects), a B2B2C corporate wellness platform.
+
+[Portfolio](https://manjeetdhayal.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/manjeet-dhayal) · [Email](mailto:manjeetdhayal786@gmail.com) · [LeetCode](https://leetcode.com/dholiyoo)
 
 ---
 
-## 👨‍💻 About Me
+## Highlights
 
-```javascript
-const manjeet = {
-  name: "Manjeet Dhayal",
-  role: "Member of Technical Staff",
-  company: "Oracle",
-  location: "India",
-  education: "B.Tech in Computer Science and Engineering, NIT Rourkela",
-  interests: [
-    "Distributed Systems",
-    "Cloud Computing (OCI)",
-    "AI & RAG Systems",
-    "Full-Stack Development",
-    "Open Source"
-  ]
-};
+- Cut a hot API path from **60s to sub-second (~98% faster)** by tuning JDBC connection-pool configuration and replacing a full table scan with a denormalized table.
+- Built **Ace**, an AI on-call RCA system using RAG over Slack history (**~90%+ root-cause accuracy**), then extended it to open auto-remediation pull requests.
+- Ship production Java/Dropwizard backend services for Oracle Cloud Infrastructure.
+- Founded **GetQi**: Java/Spring Boot backend, Next.js and Flutter clients, Razorpay payments, dual-wallet, QR-based access control.
 
-const currentFocus = () => {
-  console.log("🚀 Building scalable backend services for Oracle Cloud Infrastructure");
-  console.log("🤖 Developing AI-powered solutions like Project Ace for automated RCA");
-  console.log("🌐 Creating intuitive React/TypeScript applications");
-  console.log("📚 Continuously learning system design and distributed architectures");
-};
+## Experience
 
-currentFocus();
-```
+| Role | Company | Period |
+| --- | --- | --- |
+| Core Infrastructure Engineer 1 | Oracle | May 2026 – Present |
+| Founder & Software Engineer (side project) | GetQi | Mar 2026 – Present |
+| Member of Technical Staff | Oracle | Jul 2024 – May 2026 |
+| Front End Development Intern | AulaCube Technologies | Dec 2023 – Feb 2024 |
+| Server Technology Intern | Oracle | May 2023 – Jul 2023 |
+| React JS Intern | Brick&Bolt | Jun 2022 – Aug 2022 |
+| React Tech Intern | MeMeraki | Feb 2022 – Jun 2022 |
 
-## 🌱 Learning & Interests
-- ✨ **Distributed Systems & System Design**
-- ✨ **Oracle Cloud Infrastructure (OCI)**
-- ✨ **AI/LLMs & Retrieval-Augmented Generation (RAG)**
-- ✨ **Advanced Full-Stack Development**
+## Projects
 
----
+- **GetQi**: B2B2C health and wellness platform connecting enterprises, fitness facilities, trainers and consumers through memberships, passes and QR-based check-ins. *Java, Spring Boot, PostgreSQL, Next.js, Flutter*
+- **Ace, AI On-Call RCA**: built at the OCI Platform Hackathon. RAG over historical Slack conversations to generate context-aware RCA insights and resolution steps. *RAG, LLM, Slack API, Java*
+- **Heart Rate Monitoring & Virtual Support App**: stethoscope-based heart rate monitoring with signal denoising and a TFLite classifier (85% accuracy), plus real-time doctor consultations. *Flutter, Dart, TFLite, Agora SDK, Firebase*
+- **Anmol Career**: career coaching platform with courses and an admin dashboard. *React, Node.js, MongoDB*
+- **ShopIt**: full-featured e-commerce app with an admin panel. *React, Redux, Express*
+- **LetMeHandle**: team task management app. *React, Firebase*
 
-## 🎯 Hobbies
-- ✨ Coding
-- ✨ Watching Anime
-- ✨ Exploring New Technologies
-- ⚽ Football (Neighbourhood Professional XD)
+## Skills
 
----
+- **Core:** Java, Dropwizard, Spring Boot, REST APIs, JDBC, SQL, NoSQL, OCI, Distributed Systems, RAG, LLM Integration, React, TypeScript
+- **Working knowledge:** Docker, Node.js, Express, Next.js, PostgreSQL, MySQL, MongoDB, Microservices, Event-Driven Architecture, Kubernetes (OKE), Helm, GraalVM, Flutter, Prompt Engineering, Tool Calling, MCP, Agentic AI, System Design, CI/CD
+- **Familiar:** Terraform, Firebase, Redux, Dart, C/C++, Razorpay, Agora SDK
 
-## 🛠️ Tech Stack
+## Education & Certifications
 
-### 💻 Languages
-- **Java**, **JavaScript**, **TypeScript**, **C/C++**, **Dart**, **SQL**
-
-### ⚙️ Frameworks & Libraries
-- **React**, **Node.js**, **Express**, **Dropwizard**, **Flutter**, **TailwindCSS**
-
-### ☁️ Cloud & Tools
-- **Oracle Cloud Infrastructure (OCI)**, **Docker**, **GraalVM**, **Firebase**, **Git**, **IntelliJ**, **Postman**
-
-### 🗄️ Databases
-- **MongoDB**, **MySQL**, **NoSQL**
-
-### 🤖 AI/ML
-- **Retrieval-Augmented Generation (RAG)**, **Large Language Models (LLMs)**, **TensorFlow Lite**
-
----
-
-## 🚀 Featured Projects
-
-### 🤖 Ace – AI-Powered On-Call RCA System
-- Leveraged **RAG** over Slack conversations to automate root cause analysis.
-- Achieved **~90% accuracy** in identifying incidents.
-- Enabled **automated remediation** through AI-generated pull requests, significantly reducing incident resolution time.
-
-### ❤️ Heart Rate Monitoring & Virtual Support App
-- Built using **Flutter** and **TensorFlow Lite** to detect abnormal heart rates.
-- Integrated **Agora SDK** for real-time doctor consultations.
-- Utilized **Firebase** for notifications and secure data storage.
-
----
-
-## 🏆 Achievements
-- 🏅 **Schneider Electric Scholarship Recipient (2022)**
-- 🧑‍🏫 **Mentor at NPSiHACKS Hackathon (2021)**
-- 🧠 **LeetCode Biweekly Contest Rank:** 1628 / 22,070 participants
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://twitter.com/coder_manjeet">
-    <img src="./assets/twitter.png" alt="Twitter" width="40" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/manjeet-dhayal">
-    <img src="./assets/linkedin.png" alt="LinkedIn" width="40" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/___manjeet_">
-    <img src="./assets/instagram.png" alt="Instagram" width="40" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:manjeetdhayal786@gmail.com">
-    <img src="./assets/mail.png" alt="Email" width="40" />
-  </a>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/manjeetdhayal">
-    <img height="200px" src="https://github-readme-stats.vercel.app/api?username=manjeetdhayal&show_icons=true&theme=great-gatsby&count_private=true" />
-  </a>
-  <a href="https://github.com/manjeetdhayal">
-    <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manjeetdhayal&theme=great-gatsby&layout=compact" />
-  </a>
-</p>
-
----
-
-<h3 align="center">⭐ If you ❤️ my work, consider giving a star to my repositories! 🙈</h3>
+- B.Tech, Computer Science and Engineering, **NIT Rourkela** (2020–2024), CGPA 8.73/10
+- Oracle Certified Professional: Java SE 21 Developer (Aug 2026)
