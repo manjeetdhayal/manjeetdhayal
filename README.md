@@ -1,6 +1,6 @@
 # Manjeet Dhayal
 
-**Core Infrastructure Engineer @ Oracle** · Bengaluru, India
+**Software Engineer @ Oracle** · Bengaluru, India
 
 Backend, infrastructure and AI/RAG engineer at Oracle Cloud Infrastructure. I build Java and Dropwizard services and distributed systems at enterprise scale, ship LLM/RAG systems that hold up in production, and founded [GetQi](#projects), a B2B2C corporate wellness platform.
 
@@ -19,7 +19,7 @@ Backend, infrastructure and AI/RAG engineer at Oracle Cloud Infrastructure. I bu
 
 | Role | Company | Period |
 | --- | --- | --- |
-| Core Infrastructure Engineer 1 | Oracle | May 2026 – Present |
+| Software Engineer 1 | Oracle | May 2026 – Present |
 | Founder & Software Engineer (side project) | GetQi | Mar 2026 – Present |
 | Member of Technical Staff | Oracle | Jul 2024 – May 2026 |
 | Front End Development Intern | AulaCube Technologies | Dec 2023 – Feb 2024 |
